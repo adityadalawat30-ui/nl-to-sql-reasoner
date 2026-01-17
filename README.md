@@ -1,7 +1,4 @@
-Perfect. Below is a clean, professional, judge-attractive README.md you can directly copy-paste into GitHub.
-It is written for evaluators, professors, and technical reviewers — not casual users.
 
-⸻
 
 🧠 NL → SQL Reasoning System
 
